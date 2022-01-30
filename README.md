@@ -9,6 +9,13 @@ Me chamo Milena Chrysostomo Leme
 - 👀 Muito curiosa. Amo aprender coisas novas
 - 📚 Hobbies: Ler livros e Mangas
 
+
+<h4> 💙 𝓒𝓸𝓷𝓽𝓪𝓽𝓸 💙</h4>
+
+<a href="https://www.linkedin.com/in/milenachrysostomoleme/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ## 
 
 <div>
