@@ -4,7 +4,7 @@ Me chamo Milena Chrysostomo Leme
 
 <h4> 💙 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 💙</h4>
 
-- 🖥️ Atualmente estou estudando Trybe – Desenvolvimento de Software Web 
+- 🖥️ Atualmente estou estudando na Trybe – Desenvolvimento de Software Web 
 - 🌱 Sou uma pessoa resiliente
 - 👀 Muito curiosa. Amo aprender coisas novas
 - 📚 Hobbies: Ler livros e Mangas
