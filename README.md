@@ -16,15 +16,6 @@ Me chamo Milena Chrysostomo Leme
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 
-
-<div>
-<a href="https://github.com/anuraghazra/MilenaCLeme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilenaCLeme&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaCLeme&layout=compact&langs_count=16&theme=dark"/>
-</a>
-</div>
-
 <!--
 **MilenaCLeme/MilenaCLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
