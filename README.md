@@ -6,7 +6,7 @@ Bem vindo ao meu perfil do GitHub 👋
 <h4> 💙 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 💙</h4>
 
 - 🖥️ Atualmente estou estudando –  Ciências da Computação
-- 🍩 Donuts Tech 
+- 🍩 Donuts Tech <a href="https//www.donutstech.com.br">Site</a>
 - 🌱 Sou uma pessoa resiliente
 - 👀 Muito curiosa. Amo aprender coisas novas
 - 📚 Hobbies: Ler livros e Mangas
@@ -20,7 +20,7 @@ Sinta-se à vontade para me contatar para discutir projetos, oportunidades ou qu
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<h4>Tecnologias e ferramentas</h4>
+<h4>🔭Tecnologias e ferramentas🔭</h4>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30px" />
