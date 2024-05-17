@@ -6,8 +6,8 @@ Bem vindo ao meu perfil do GitHub 👋
 <h4> 💙 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 💙</h4>
 
 - 🖥️ Atualmente estou estudando –  Ciências da Computação
-- 🍩 Donuts Tech - <a href="https//www.donutstech.com.br">Site</a> 
-- 👯 Meu Colaborador é o <a href="https://github.com/NetoRusso"> ❤️ Neto Russo</a>
+- 🍩 Donuts Tech - <a href="https//www.donutstech.com.br" target="_blank">Site</a> 
+- 👯 Meu Colaborador é o <a href="https://github.com/NetoRusso" target="_blank"> ❤️ Neto Russo</a>
 - 🌱 Sou uma pessoa resiliente
 - 👀 Muito curiosa. Amo aprender coisas novas
 - 📚 Hobbies: Ler livros e Mangas
@@ -16,7 +16,7 @@ Bem vindo ao meu perfil do GitHub 👋
 
 Sinta-se à vontade para me contatar para discutir projetos, oportunidades ou qualquer outra coisa interessante!
 
-<a href="https://www.linkedin.com/in/milenachrysostomoleme/">
+<a href="https://www.linkedin.com/in/milenachrysostomoleme/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
