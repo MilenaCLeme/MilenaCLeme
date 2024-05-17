@@ -6,7 +6,7 @@ Bem vindo ao meu perfil do GitHub 👋
 <h4> 💙 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 💙</h4>
 
 - 🖥️ Atualmente estou estudando –  Ciências da Computação
-- 🍩 Donuts Tech <a href="https//www.donutstech.com.br">Site</a>
+- 🍩 Donuts Tech - <a href="https//www.donutstech.com.br">Site</a>
 - 🌱 Sou uma pessoa resiliente
 - 👀 Muito curiosa. Amo aprender coisas novas
 - 📚 Hobbies: Ler livros e Mangas
