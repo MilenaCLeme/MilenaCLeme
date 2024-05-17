@@ -39,7 +39,7 @@ Sinta-se à vontade para me contatar para discutir projetos, oportunidades ou qu
 <div>
 <a href="https://github.com/MilenaCLeme">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaCLeme&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sMilenaCLeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MilenaCLeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
