@@ -6,7 +6,7 @@ Bem vindo ao meu perfil do GitHub 👋
 <h4> 💙 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 💙</h4>
 
 - 🖥️ Atualmente estou estudando –  Ciências da Computação
-- 🍩 Donuts Tech - <a href="https//www.donutstech.com.br" target="_blank">Site</a> 
+- 🍩 Donuts Tech - <a href="https://www.donutstech.com.br" target="_blank">Site</a> 
 - 👯 Meu Colaborador é o <a href="https://github.com/NetoRusso" target="_blank"> ❤️ Neto Russo</a>
 - 🌱 Sou uma pessoa resiliente
 - 👀 Muito curiosa. Amo aprender coisas novas
